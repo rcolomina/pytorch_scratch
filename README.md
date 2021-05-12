@@ -3,6 +3,8 @@
 ## Pytorch Installation and Veritications
 https://pytorch.org/get-started/locally/#linux-verification
 
+## Reasons why pytorch is the deep learning framework of the future
+https://heartbeat.fritz.ai/10-reasons-why-pytorch-is-the-deep-learning-framework-of-future-6788bd6b5cc2
 
 ## Resnet101 in Pytorch
 
